@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coffee Advisor App</string>
+    <string name="find_drinks">Find Drinks!</string>
+    <string name="drinks"></string>
+
+    <string-array name="drinks_type">
+        <item>Coffee</item>
+        <item>Juice</item>
+        <item>Tea</item>
+        <item>Chocolate</item>
+    </string-array>
+
+
+</resources>
+
